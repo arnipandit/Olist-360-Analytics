@@ -110,12 +110,3 @@ The original dataset is publicly available on Kaggle:
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 Due to GitHub file size limitations, the original raw datasets are not included in this repository.
-
-
-## Author
-
-**Arni Pandit**
-
-Business Analytics | Data Analytics | Python | Power BI
-
-LinkedIn: *(Add your LinkedIn URL)*
