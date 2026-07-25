@@ -1,6 +1,3 @@
-# Olist-360-Analytics
-End-to-end e-commerce analytics project using Python and Power BI, featuring data cleaning, exploratory data analysis, feature engineering, and interactive business dashboards.
-
 # Olist 360 Analytics
 
 > End-to-end e-commerce analytics project using Python and Power BI to analyze customer behavior, sales performance, logistics efficiency, and business performance using the Olist Brazilian E-Commerce Dataset.
